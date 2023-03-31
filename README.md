@@ -1,5 +1,4 @@
 # **High Mortgage Rates**
-## *Project #01, Group 12* 
 
 ### **Project Description:**
 Are cannabis laws affecting housing prices in the U.S.?
